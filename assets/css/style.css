@@ -104,8 +104,8 @@ img{
 }
 
 .full:hover{
+    transition: 0.7s;
     border: 1px solid black;
-    color: inherit;
 }
 
 .three.full:hover{
@@ -128,5 +128,6 @@ img{
 }
 
 .hidden img:hover{
+    transition: 0.7s;
     opacity: 1;
 }
