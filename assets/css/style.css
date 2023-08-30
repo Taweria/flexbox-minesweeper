@@ -53,6 +53,7 @@ body{
 img{
     width: 30px;
     height: 30px;
+    
 }
 
 .corner-top-left{
@@ -122,3 +123,10 @@ img{
     text-shadow: black 1px 0 1px;
 }
 
+.hidden img{
+    opacity: 0;
+}
+
+.hidden img:hover{
+    opacity: 1;
+}
