@@ -7,7 +7,7 @@
 
 ## What's the project?
 
-**It's a minesweeper using only flexboxes**
+**It's a minesweeper using flexbox**
 
 I did this project during my training at BeCode.org.
 
