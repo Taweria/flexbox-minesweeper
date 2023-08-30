@@ -98,4 +98,27 @@ img{
     border-right: 2px solid grey;
     border-style: outset;
     box-shadow: 1px 1px 1px black;
+    color: lightgrey;
+    text-shadow: none;
 }
+
+.full:hover{
+    border: 1px solid black;
+    color: inherit;
+}
+
+.three.full:hover{
+    color: red;
+    text-shadow: black 1px 0 1px;
+}
+
+.one.full:hover{
+    color: blue;
+    text-shadow: black 1px 0 1px;
+}
+
+.two.full:hover{
+    color: green;
+    text-shadow: black 1px 0 1px;
+}
+
