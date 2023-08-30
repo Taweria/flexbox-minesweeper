@@ -104,7 +104,7 @@ img{
 }
 
 .full:hover{
-    transition: 0.7s;
+    transition: ease-in 0.7s;
     border: 1px solid black;
 }
 
@@ -128,6 +128,6 @@ img{
 }
 
 .hidden img:hover{
-    transition: 0.7s;
+    transition: ease-in 0.7s;
     opacity: 1;
 }
