@@ -1,9 +1,5 @@
 # flexbox-minesweeper
 
-## Contributors
-
-[Ali Elodie (Taweria )]( https://github.com/Taweria)
-
 
 ## What's the project?
 
